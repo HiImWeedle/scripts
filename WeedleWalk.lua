@@ -2,6 +2,8 @@
 		WeedleWalk.lua 
 		Version 0.2 
    		Authors: Weedle
+		.isVisible and .boundingRadius broken atm
+		.canMoveWhileChanneling also broken atm 
 	--]]
 
 	if _G.WeedleWalk_Loaded then 
