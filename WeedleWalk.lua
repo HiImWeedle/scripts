@@ -1,7 +1,7 @@
 	--[[
 		WeedleWalk.lua 
 		Version 0.2 
-    Authors: Weedle
+   		Authors: Weedle
 	--]]
 
 	if _G.WeedleWalk_Loaded then 
